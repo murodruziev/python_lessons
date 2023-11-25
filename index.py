@@ -50,3 +50,7 @@ if buyurtmalar:
             print('Kechirasiz menuda', taom, 'yoq')
 else:
     print('Savatchangiz bosh')
+
+
+n = input('Ismingizni kiriting: ')
+print('Salom', n)
